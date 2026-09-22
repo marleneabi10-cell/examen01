@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Extra</title>
+    <link rel="stylesheet" href="estilos02.css">
+    
+</head>
+
+<body>
+
+<!-- Derechos de autor - Marlene -->
+
+<div class="contenedor">
+
+    <h1>Mi muestra de arte</h1>
+
+    <div class="obra">
+        <div class="circulo"></div>
+        <h2>Arte y creatividad</h2>
+        <p>
+            El arte es una forma de expresar ideas,
+            emociones y experiencias.
+        </p>
+    </div>
+
+</div>
+
+</body>
+</html>

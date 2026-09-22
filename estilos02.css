@@ -1,0 +1,28 @@
+/* Derechos de autor - Marlene */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+}
+
+.contenedor {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.obra {
+    background-color: white;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px #aaa;
+}
+
+.circulo {
+    width: 150px;
+    height: 150px;
+    background-color: #d889ff;
+    border-radius: 50%;
+    margin: auto;
+}

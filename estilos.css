@@ -1,0 +1,20 @@
+/*Derechos de autor: Marlene Méndez */
+body { font-family: 'Times New Roman', Times, serif;
+margin: 40px;}
+
+/*Estilo index */
+.index { background-color: rgb(130, 189, 218);}
+/*estilo pag01 */
+.pag01 {
+    background-color: rgb(115, 118, 147);
+
+}
+/* estilo pag02*/
+.pag02 { background-color: rgb(78, 78, 100);}
+
+/*estilo pag03 */
+.pag03 { background-color: rgb(101, 77, 77);}
+
+/*estilo pag04 */
+.pag04 {background-color: rgb(165, 108, 139);}
+
